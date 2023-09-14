@@ -1,0 +1,70 @@
+
+.banner-image{
+
+  
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq5gpchuV08oJSrHDnRBwthHfqyMgAYeuSZg&usqp=CAU');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+.C{
+
+
+  background-color:  #202A44;
+}
+.link
+{
+
+
+	  color: white !important;
+}
+.N{
+
+
+
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShMVcHhRNEk7GTlMg9pbVz7c4KUckv6cHLUw&usqp=CAU');
+}
+.Ser{
+
+
+     background-image: url('https://media.istockphoto.com/id/1265552070/vector/grey-and-white-abstract-background-geometry-shine-and-layer-element-concept-building.jpg?s=612x612&w=0&k=20&c=Ql536MuR69oTQvN_91MAhCAPvv5wUsB0t3DxHRhrpfE=');
+     background-repeat: no-repeat;
+    background-size: cover;
+   background-position: center;
+
+
+}
+.text{
+
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJsSedOB3Z4Cvg3-w4sBsQb1zeZgT8grKSVg&usqp=CAU');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  
+}
+.Reg{
+
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsP6DXAXJfldEA8_3OHgu8zDP6dyCscuqqfA&usqp=CAU');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+.container {
+  position: relative;
+  font-family: Arial;
+}
+
+.text-block {
+  position: absolute;
+
+  padding-bottom: 40;
+  background-color: white;
+  
+  
+ 
+  
+  padding-left: 10px;
+  padding-right: 20px;
+}
